@@ -1,4 +1,4 @@
-<h1>Hi, I'm George!  <br/> <a href="https://www.linkedin.com/in/karpatho/">INFORMATION TECHNOLOGY PROFESSIONAL</a></h1>
+<h1>Hi, I'm George!  <br/> <a href="https://www.linkedin.com/in/gpikoulis/">INFORMATION TECHNOLOGY PROFESSIONAL</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
