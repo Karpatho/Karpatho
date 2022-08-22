@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>PowerShell</b>
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [JWipe (Disk Wiping Utility)](https://github.com/Karpatho/Powershell4Admins)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
 
 <h2>📺 Popular YouTube Videos</h2>
