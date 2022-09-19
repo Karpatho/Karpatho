@@ -5,6 +5,7 @@
 - <b>PowerShell</b>
   - [JWipe (Disk Wiping Utility)](https://github.com/Karpatho/Powershell4Admins)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [Computer inventaory](https://github.com/Karpatho/Powershell4Admins)
 
 <h2>📺 Popular YouTube Videos</h2>
 - [Coming soon...]
